@@ -8,25 +8,24 @@
     "packages": [
         {
             "name": "altorouter/altorouter",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dannyvankooten/AltoRouter.git",
-                "reference": "f6fede4f94ced7c22ba63a9b8af0bf2dc38e3cb2"
+                "reference": "9931b976423f7334c94f7b5b348be8ab1da3415d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dannyvankooten/AltoRouter/zipball/f6fede4f94ced7c22ba63a9b8af0bf2dc38e3cb2",
-                "reference": "f6fede4f94ced7c22ba63a9b8af0bf2dc38e3cb2",
+                "url": "https://api.github.com/repos/dannyvankooten/AltoRouter/zipball/9931b976423f7334c94f7b5b348be8ab1da3415d",
+                "reference": "9931b976423f7334c94f7b5b348be8ab1da3415d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6.0"
+                "php": ">=7.3"
             },
             "require-dev": {
-                "codeclimate/php-test-reporter": "dev-master",
-                "phpunit/phpunit": "5.7.*",
-                "squizlabs/php_codesniffer": "3.4.2"
+                "phpunit/phpunit": "9.6.*",
+                "squizlabs/php_codesniffer": "3.6.2"
             },
             "type": "library",
             "autoload": {
@@ -61,10 +60,9 @@
                 "routing"
             ],
             "support": {
-                "issues": "https://github.com/dannyvankooten/AltoRouter/issues",
-                "source": "https://github.com/dannyvankooten/AltoRouter/tree/2.0.2"
+                "source": "https://github.com/dannyvankooten/AltoRouter/tree/2.0.3"
             },
-            "time": "2020-03-09T08:34:59+00:00"
+            "time": "2025-01-05T20:33:28+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -591,16 +589,16 @@
         },
         {
             "name": "matomo/device-detector",
-            "version": "6.4.1",
+            "version": "6.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/matomo-org/device-detector.git",
-                "reference": "0d364e0dd6c177da3c24cd4049178026324fd7ac"
+                "reference": "806e52d214b05ddead1a1d4304c7592f61f95976"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/0d364e0dd6c177da3c24cd4049178026324fd7ac",
-                "reference": "0d364e0dd6c177da3c24cd4049178026324fd7ac",
+                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/806e52d214b05ddead1a1d4304c7592f61f95976",
+                "reference": "806e52d214b05ddead1a1d4304c7592f61f95976",
                 "shasum": ""
             },
             "require": {
@@ -656,7 +654,7 @@
                 "source": "https://github.com/matomo-org/matomo",
                 "wiki": "https://dev.matomo.org/"
             },
-            "time": "2024-09-24T13:50:04+00:00"
+            "time": "2024-12-16T16:38:01+00:00"
         },
         {
             "name": "mustangostang/spyc",
@@ -1391,16 +1389,16 @@
         },
         {
             "name": "smarty/smarty",
-            "version": "v5.4.1",
+            "version": "v5.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/smarty-php/smarty.git",
-                "reference": "cd58df7a2603b7d925e5db5c9d50f10987695fd3"
+                "reference": "c6bff5795081ca5e60aabda59fb87daa511acd1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/smarty-php/smarty/zipball/cd58df7a2603b7d925e5db5c9d50f10987695fd3",
-                "reference": "cd58df7a2603b7d925e5db5c9d50f10987695fd3",
+                "url": "https://api.github.com/repos/smarty-php/smarty/zipball/c6bff5795081ca5e60aabda59fb87daa511acd1e",
+                "reference": "c6bff5795081ca5e60aabda59fb87daa511acd1e",
                 "shasum": ""
             },
             "require": {
@@ -1455,9 +1453,9 @@
             "support": {
                 "forum": "https://github.com/smarty-php/smarty/discussions",
                 "issues": "https://github.com/smarty-php/smarty/issues",
-                "source": "https://github.com/smarty-php/smarty/tree/v5.4.1"
+                "source": "https://github.com/smarty-php/smarty/tree/v5.4.3"
             },
-            "time": "2024-08-29T23:10:45+00:00"
+            "time": "2024-12-23T00:38:44+00:00"
         },
         {
             "name": "spatie/yaml-front-matter",
@@ -2126,20 +2124,20 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.30.0",
+            "version": "v1.31.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "fd22ab50000ef01661e2a31d850ebaa297f8e03c"
+                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/fd22ab50000ef01661e2a31d850ebaa297f8e03c",
-                "reference": "fd22ab50000ef01661e2a31d850ebaa297f8e03c",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/85181ba99b2345b0ef10ce42ecac37612d9fd341",
+                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">=7.2"
             },
             "provide": {
                 "ext-mbstring": "*"
@@ -2150,8 +2148,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -2186,7 +2184,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.30.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.31.0"
             },
             "funding": [
                 {
@@ -2202,7 +2200,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-06-19T12:30:46+00:00"
+            "time": "2024-09-09T11:45:10+00:00"
         },
         {
             "name": "symfony/polyfill-php83",
